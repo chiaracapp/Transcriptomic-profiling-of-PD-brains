@@ -1,0 +1,501 @@
+﻿Case_ID,Sex,Age_death,Cause_of_death,PMD_min,pH,Clinical_diagnosis,Disease_duration,Dementia_duration,Brain_surgery,Neuropath_diagnosis,Thal_amyloid_phase,Braak_NFT_stage,CERAD_stage,AD-level,Braak_aSyn_stage,CAA_type
+YG001,F,79,Cachexia,290,7.08,AD,11,11,no,AD,NA,5,frequent,NA,3,1
+YG002,M,72,"Cardiac arrest or infarction, sudden death",415,6.60,FTD,5,3,no,AD,4,5,sparse,intermediate,3,2
+YG003,M,82,Pneumonia with severe amnestic syndrome,330,6.51,AD,22,10,no,mixed AD/LBD,4,6,frequent,high,5,2
+YG004,M,81,Pneumonia,280,6.83,PDD,12,0,no,PDD,0,1,none,not,4,no
+YG005,M,66,Pneumonia and dehydration,240,6.90,PD,18,no dementia,no,PD,NA,0,none,NA,5,no
+YG006,F,84,pulmonary emboli,560,NA,no,NA,no dementia,no,CONTR,NA,3,moderate,intermediate,0,no
+YG007,F,90,Cardiac arrest,370,6.54,no,NA,no dementia,no,CONTR,1,3,none,low,0,no
+YG008,F,88,Pneumonia; bronchitis,297,6.40,AD,12,11,no,AD,NA,6,moderate,NA,5,2
+YG009,F,80,"stroke, dehydration",255,6.50,PDD,9,8,no,PDD,4,1,moderate,low,6,2
+YG010,F,78,Aspiration pneumonia,250,7.00,PD,18,no dementia,no,PD,0,2,none,not,5,NA
+YG011,M,54,Pneumonia and stoke,250,6.85,AD,3,3,no,DLB,NA,4,moderate,intermediate,5,2
+YG012,F,79,"Cachexia, dehydration",265,6.74,AD,10,10,no,AD,NA,6,frequent,NA,3,1
+YG013,F,81,Cardiac decompensation,290,6.60,AD,17,6,no,mixed AD/LBD,3,6,frequent,intermediate,5,1
+YG014,M,82,Cardiac asthma with fever e.c.i. (possible acute abdomen e.c.i.),215,6.69,AD,5,5,no,AD,NA,4,sparse,NA,3,2
+YG015,F,78,Pneumonia,235,6.70,dementia NOS,NA,NA,no,AD,NA,6,frequent,NA,4,2
+YG016,M,84,Cachexia,180,6.53,AD,8,4,no,AD,NA,6,frequent,NA,3,1
+YG017,F,77,Pneumonia,365,6.22,dementia NOS,17,17,no,mixed AD/LBD,4,6,moderate,high,5,1
+YG018,F,87,Cachexia due to severe dementia syndrome,365,6.39,AD,23,12,no,AD,NA,6,frequent,NA,3,2
+YG019,F,79,kidney failure complicated by cardial decompensation,320,6.62,PD,16,no dementia,no,PD,0,1,none,not,5,2
+YG020,F,85,Dehydration uremia,270,6.38,dementia NOS,NA,NA,no,AD,NA,6,frequent,NA,3,1
+YG021,F,70,Haematemesis due to oesophagitis,425,6.64,PDD,22,5,no,PDD,2,2,sparse,low,6,no
+YG022,M,78,Skull base fracture due to a fall,380,NA,PDD,14,1,yes,PDD,1,3,sparse,low,5,no
+YG023,F,81,Pneumonia,250,6.86,PD,17,no dementia,no,PD,0,1,none,not,5,2
+YG024,M,76,prostate carcinoma with metastases,285,6.13,no,NA,no dementia,no,iLBD,0,1,none,not,5,2
+YG025,M,79,Uraemia due to dehydration,265,6.18,DLB,3,3,no,DLB,3,4,moderate,intermediate,6,2
+YG026,M,76,Pneumonia and dehydration,245,6.93,PDD,12,4,no,PDD,0,1,none,not,6,2
+YG027,F,97,pneumonia and lung embolisms,600,NA,no,NA,no dementia,no,CONTR,NA,2,moderate,low,0,2
+YG028,M,88,Cardiac arrest,285,6.90,stroke,NA,no dementia,no,mixed AD/LBD,4,4,frequent,intermediate,5,2
+YG029,F,87,Mors subita e.c.i.,240,6.46,AD,18,18,no,AD,NA,5,moderate,NA,3,2
+YG030,F,68,Euthanasia,245,NA,PD,20,no dementia,yes,PD,3,2,sparse,low,6,no
+YG031,M,83,Aspiration pneumonia,340,6.47,FTD,11,8,no,AD,4,6,frequent,high,5,1
+YG032,M,79,Pneumonia and metastasized kidney carci,540,6.15,brain metastases,NA,no dementia,no,iLBD,NA,2,sparse,low,5,1
+YG033,F,82,Cachexia/Cardiac failure,310,6.80,no,NA,no dementia,no,CONTR,NA,3,sparse,NA,0,2
+YG034,M,89,Cachexia and dehydration in end stage Dementia syndrome,270,6.85,VD,4,4,no,DLB,0,2,sparse,not,6,1
+YG035,M,84,Pneumonia,275,6.50,AD,11,5,no,DLB,2,5,sparse,low,5,no
+YG036,F,90,NA,350,7.00,no,NA,no dementia,no,CONTR,NA,2,none,NA,0,no
+YG037,M,75,Pneumonia,365,6.56,VD,5,5,no,DLB,3,4,moderate,intermediate,6,2
+YG038,M,67,Cachexia and dehydration in end stage Parkinson's disease,395,NA,PDD,30,9,yes,PDD,2,1,none,low,6,no
+YG039,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,NA,NA,NA,NA,NA,NA
+YG040,M,86,NA,960,NA,NA,NA,NA,no,PD,NA,NA,NA,NA,NA,NA
+YG041,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,NA,NA,NA,NA,NA,NA
+YG042,M,76,Pneumonia,315,6.64,PDD,11,3,no,PDD,1,1,none,low,5,no
+YG043,F,84,Cachexia and dehydration,365,6.10,AD,4,4,no,mixed AD/LBD,4,5,moderate,high,6,no
+YG044,F,72,Respiratory insufficiency,590,6.40,AD,13,13,no,mixed AD/LBD,4,6,frequent,high,6,2
+YG045,F,91,Exhaustion,290,6.49,normal pressure hydrocephalus,16,no dementia,no,iLBD,NA,1,none,NA,3,2
+YG046,M,80,"Dehydration and cachexia, possible stroke",285,6.54,AD,8,5,no,DLB,NA,3,sparse,NA,5,2
+YG047,F,87,Cardiac failure,480,6.91,no,NA,no dementia,no,CONTR,NA,2,sparse,low,0,no
+YG048,M,73,Respiratory insufficiency,1020,NA,DLB,NA,NA,no,DLB,NA,NA,NA,NA,NA,NA
+YG049,F,74,Pneumonia,275,6.50,PDD,16,2,no,PDD,3,1,moderate,low,6,2
+YG050,M,88,Cardiac arrest,340,6.65,no,NA,no dementia,no,CONTR,NA,4,sparse,NA,0,1
+YG051,F,81,cardiac shock,1335,6.94,no,NA,no dementia,no,CONTR,NA,1,none,NA,0,no
+YG052,M,85,Pneumonia,675,6.27,VD,10,10,no,mixed AD/LBD,4,4,moderate,intermediate,5,2
+YG053,F,100,Dehydration,295,6.29,dementia NOS,7,7,no,mixed AD/LBD,3,4,sparse,intermediate,5,1
+YG054,M,85,Dehydration and cachexia due to swallowing problems and a possible infection,430,6.19,PDD,14,2,no,PDD,3,5,moderate,intermediate,6,1
+YG055,NA,NA,NA,NA,NA,NA,NA,NA,no,PD,NA,NA,NA,NA,NA,NA
+YG056,F,86,Dehydration,360,6.34,PDD,15,3,no,PDD,3,1,none,low,5,2
+YG057,M,74,Cachexia,255,6.12,AD,4,4,no,DLB,3,1,sparse,low,5,2
+YG058,F,69,Ileus,345,6.15,AD,10,10,no,AD,4,6,frequent,high,5,1
+YG059,M,84,Anemia and metastasized prostate carcinoma,440,6.38,no,NA,no dementia,no,iLBD,1,1,none,low,Atypical,2
+YG060,M,80,"Unknown, pneumonia/urine tract infection?",425,6.34,PDD,6,1,no,PDD,2,1,sparse,low,5,2
+YG061,M,81,stomach bleeding,345,6.63,DLB,4,3,no,mixed AD/LBD,3,4,sparse,intermediate,6,2
+YG062,M,76,cardiac arrest,330,6.43,PDD,10,5,no,PDD,3,1,none,low,6,2
+YG063,M,56,Neuroleptic malignant syndrome,305,6.43,PD,8,no dementia,no,PD,0,0,none,not,4,no
+YG064,F,79,"Fever, cause unknown",235,6.72,PDD,9,4,no,mixed AD/LBD,4,3,frequent,intermediate,5,1
+YG065,F,83,"Cachexia, urinary tract infection, congestive heart failure",295,6.47,AD,5,no dementia,no,AD,NA,5,frequent,NA,3,2
+YG066,F,80,dehydration with general deterioration,315,6.31,VD,13,5,no,PDD,1,1,moderate,low,6,2
+YG067,M,80,"Pneumonia, dehydration, cardiomyopathy",295,6.80,PDD,12,6,no,PDD,0,1,none,not,4,no
+YG068,F,88,Respiratory insufficiency due to bronchitis,540,6.36,AD,8,8,no,mixed AD/LBD,4,3,sparse,intermediate,5,1
+YG069,M,70,Respiratory insufficiency and decompensatio cordis,345,6.46,PDD,13,2,no,PDD,3,1,sparse,low,6,no
+YG070,M,72,Uremia,435,6.55,PDD,13,4,no,PDD,3,2,moderate,low,5,1
+YG071,M,81,Cachexia,990,6.62,PD,37,no dementia,no,Tauopathy NOS,0,3,none,not,2,no
+YG072,M,77,bronchopneumonia,225,7.36,AD,12,12,no,AD,NA,2,frequent,low,3,1
+YG073,M,81,acute heart failure,250,6.44,AD,7,7,no,AD,4,5,frequent,high,6,2
+YG074,F,83,Voluntarily stopping eating and drinking,280,6.16,PD,5,no dementia,no,PD,0,1,none,not,5,no
+YG075,M,76,Cachexia and dehydration,225,6.61,AD,8,8,no,AD,4,5,frequent,high,4,2
+YG076,M,86,dehydration/cachexia after a possible stroke,405,6.20,DLB,6,6,no,DLB,4,3,sparse,intermediate,6,2
+YG077,M,86,pneumonia,472,NA,DLB,5,2,no,mixed AD/LBD,3,5,sparse,intermediate,5,1
+YG078,M,81,Circulatory shock caused by massive bloodloss,450,6.61,PD,NA,no dementia,no,PD,0,0,none,not,4,no
+YG079,F,80,Severe decubitus,480,6.85,PDD,7,3,no,mixed AD/LBD,3,4,moderate,intermediate,5,2
+YG080,M,82,"Pneumonia, cachexia and dehydration",260,6.62,AD,7,7,no,DLB,NA,4,sparse,NA,5,2
+YG081,M,77,dehydration,175,6.41,dementia NOS,NA,NA,no,AD,4,5,moderate,high,3,2
+YG082,F,83,Cachexia and dehydration,175,6.44,AD,NA,NA,no,AD,4,5,frequent,high,3,2
+YG083,M,81,NA,770,7.15,PD,NA,no dementia,no,PD,NA,1,none,NA,4,NA
+YG084,M,73,"Sepsis, probable pneumonia",295,6.22,DLB,9,9,no,AD,4,5,moderate,high,6,2
+YG085,F,58,Neuroleptic malignant syndrome,260,6.55,PD,26,no dementia,no,PD,0,1,none,not,5,no
+YG086,F,83,Cachexia,225,6.75,PD,20,no dementia,no,PD,0,1,none,not,5,no
+YG087,F,86,Respiratory insufficiency due to morphine,340,6.49,DLB,1,1,no,DLB,3,4,moderate,intermediate,5,2
+YG088,M,81,Cachexia and dehydration in advanced PSP and diabetes mellitus type 2,280,6.70,PSP,14,4,no,AD,3,3,sparse,intermediate,4,2
+YG089,F,79,Dehydration and cachexia,258,6.34,PDD,24,10,no,PDD,3,1,none,low,6,no
+YG090,F,84,Possible pneumonia,265,6.71,PDD,3,1,no,PDD,NA,4,sparse,NA,5,2
+YG091,M,61,end stage Multiple system atrophy,455,6.98,MSA,8,no dementia,yes,PD,0,1,none,not,5,2
+YG092,M,76,Dehydration and cachexia,495,6.28,PDD,10,7,no,PDD,0,2,none,not,6,2
+YG093,F,83,"dehydration, possibly complicated by a pneumonia",290,6.76,PDD,9,7,no,PDD,3,3,sparse,intermediate,6,2
+YG094,F,69,dehydration,230,6.48,AD,7,7,no,mixed AD/LBD,4,5,frequent,high,4,2
+YG095,M,75,"Sudden death, cause unknown",235,6.65,AD,5,3,no,AD,2,6,moderate,intermediate,4,2
+YG096,F,91,Pneumonia in advanced Lewy Body dementia,280,6.50,DLB,4,4,no,DLB,3,3,sparse,intermediate,6,1
+YG097,M,87,Dehydration due to reduced intake and infection,285,6.36,PDD,13,1,no,PDD,3,3,sparse,intermediate,6,1
+YG098,M,95,Heart failure,435,6.56,no,NA,no dementia,no,iLBD,3,2,moderate,low,1,1
+YG099,F,90,Cardiac arrhythmia,290,6.37,PD,5,no dementia,no,PD,1,1,sparse,low,Atypical,2
+YG100,F,90,Old age. Dehydration and cachexia,335,6.17,AD,10,6,no,DLB,3,4,moderate,intermediate,6,2
+YG101,F,83,pneumonia and cachexia,225,6.45,dementia NOS,3,3,no,mixed AD/LBD,3,5,frequent,intermediate,5,2
+YG102,M,73,Bronchopneumonia,400,6.56,PDD,16,0,no,PDD,2,0,sparse,low,5,1
+YG103,F,87,Voluntarily stopping eating and drinking,260,6.17,VD,5,2,no,mixed AD/LBD,3,5,moderate,intermediate,5,2
+YG104,M,87,cachexia and dehydration,220,6.33,PDD,22,7,no,PDD,3,1,sparse,low,5,2
+YG105,M,74,Respiratory insufficiency and dehydration,275,6.58,PDD,9,2,no,PDD,3,2,none,low,6,2
+YG106,M,65,Urosepsis,360,6.35,PD,26,no dementia,no,PD,0,1,none,not,5,no
+YG107,F,89,"Uremia, dehydration",315,6.42,MSA,22,3,no,AD,NA,4,sparse,NA,3,2
+YG108,M,67,Pneumosepsis,295,6.40,parkinsonism NOS,18,no dementia,no,PD,0,1,none,not,6,no
+YG109,M,74,Pneumonia and dehydration due to stroke,345,6.30,PDD,12,5,no,PDD,3,3,sparse,intermediate,6,2
+YG110,F,85,Pneumonia,315,6.90,AD,6,6,no,AD,4,5,frequent,high,5,2
+YG111,F,83,cachexia/dehydration,210,6.63,AD,11,8,no,DLB,3,4,frequent,intermediate,5,2
+YG112,F,89,Suspected intestinal vascular disease,215,6.62,AD,NA,NA,no,AD,4,5,frequent,high,3,2
+YG113,F,82,respiratory insufficienty,190,6.12,dementia NOS,NA,NA,no,DLB,4,3,moderate,intermediate,3,2
+YG114,F,90,"Influenza in combination with cachexia, decubitus",290,6.40,AD,12,6,no,AD,NA,6,moderate,NA,3,2
+YG115,F,82,"unclear: dehydration, pneumonia?",235,6.64,DLB,5,4,no,DLB,4,4,sparse,intermediate,6,2
+YG116,F,81,NA,365,6.38,PDD,5,1,no,PDD,0,0,none,not,5,no
+YG117,F,73,Cachexia,465,6.03,asymmetrical cortical degenerative syndrome,11,11,no,mixed AD/LBD,4,5,moderate,high,6,2
+YG118,F,96,Old age,430,6.63,PD,8,no dementia,no,PD,NA,1,none,NA,5,2
+YG119,F,86,Aspiration pneumonia,305,6.50,AD,5,5,no,mixed AD/LBD,3,4,sparse,intermediate,6,2
+YG120,M,86,NA,510,6.52,PD,17,no dementia,no,PD,2,2,sparse,low,5,no
+YG121,F,82,Dehydration,290,6.53,VD,3,3,no,DLB,1,2,sparse,low,5,no
+YG122,F,88,stroke,290,6.20,dementia NOS,NA,NA,no,DLB,2,2,moderate,low,6,2
+YG123,F,67,pneumonia,300,6.27,dementia NOS,12,5,no,PRKAR1B mutation with SND,0,0,none,not,0,no
+YG124,M,77,myocardial infarction,420,6.62,PDD,3,3,no,PDD,2,2,moderate,low,5,2
+YG125,M,54,Aspiration pneumonia and end stage Multiple System atrophy,280,6.80,MSA,9,7,no,DLB,0,0,none,not,6,no
+YG126,M,84,Myocardial infarction,365,6.42,PD,2,no dementia,no,PD,4,1,moderate,low,5,2
+YG127,M,71,pneumonia/sepsis,275,NA,PDD,16,6,no,PDD,1,2,none,low,5,no
+YG128,F,61,abdominal problems,270,6.30,DLB,8,5,no,DLB,3,1,none,low,6,no
+YG129,M,65,"Severe decubitus, urinary tract infection",340,6.30,AD,6,6,no,mixed AD/LBD,4,6,frequent,high,6,2
+YG130,F,71,dehydration,275,NA,DLB,5,5,no,mixed AD/LBD,3,4,sparse,intermediate,5,1
+YG131,F,85,Cachexia/dehydration,195,6.65,AD,9,7,no,DLB,4,4,sparse,intermediate,6,2
+YG132,M,71,perfusion disorder of the brainstem (stroke?),240,6.58,DLB,7,7,no,DLB,3,3,sparse,intermediate,6,no
+YG133,F,84,respiratory tract infection and cachexia,255,6.24,VD,3,3,no,mixed AD/LBD,2,4,moderate,intermediate,5,2
+YG134,M,70,cachexia,265,6.56,DLB,7,6,no,DLB,3,2,sparse,low,6,2
+YG135,F,84,Pneumonia,285,6.37,AD,19,15,no,mixed AD/LBD,4,6,sparse,intermediate,6,2
+YG136,F,87,Pneumonia,325,6.44,PDD,15,7,no,PDD,3,2,sparse,low,6,no
+YG137,M,87,"Pneumonia, heart failure",620,6.32,no,NA,no dementia,no,iLBD,1,1,none,low,2,no
+YG138,F,86,Possible cardiac arrest,385,7.07,epilepsy,NA,no dementia,no,iLBD,1,3,sparse,low,3,2
+YG139,F,95,Pneumonia,300,6.66,AD,8,7,no,mixed AD/LBD,3,4,moderate,intermediate,5,2
+YG140,F,92,Cachexia and end stage dementia syndrome,290,6.30,dementia NOS,11,9,no,mixed AD/LBD,4,4,moderate,intermediate,5,2
+YG141,F,96,"Cachexia, dehydration and end stage Alzheimer's disease",300,6.74,AD,5,5,no,AD,NA,4,moderate,intermediate,1,2
+YG142,F,74,Pneumonia,540,6.62,PDD,11,6,no,PDD,3,4,sparse,intermediate,6,2
+YG143,M,83,stroke,380,6.71,PD,7,no dementia,no,PD,1,1,none,low,5,no
+YG144,M,87,Respiratory insufficiency,440,6.37,parkinsonism NOS,3,no dementia,no,PD,1,1,sparse,low,5,no
+YG145,F,76,dehydration,245,6.52,AD,10,10,no,DLB,2,1,sparse,low,5,1
+YG146,M,85,cardiac arrest,380,6.30,PDD,16,3,no,PDD,3,2,moderate,low,5,2
+YG147,F,81,pneumonia,425,6.30,AD,7,6,no,mixed AD/LBD,4,3,sparse,intermediate,5,2
+YG148,M,74,"Sudden death, possible myocardial infarction",325,6.55,DLB,2,2,no,mixed AD/LBD,4,4,moderate,intermediate,5,1
+YG149,F,75,euthanasia,300,6.52,PD,21,no dementia,no,PD,3,1,none,low,5,no
+YG150,F,79,Myocard infarction,345,6.37,PD,9,no dementia,no,PD,0,1,none,not,5,no
+YG151,M,78,Unknown infection and stroke,350,6.41,PDD,5,3,no,mixed AD/LBD,3,3,none,intermediate,6,1
+YG152,M,92,Heart failure,505,6.14,no,NA,no dementia,no,iLBD,1,4,none,low,2,no
+YG153,M,67,Pneumonia and dehydration,390,6.30,DLB,7,8,no,DLB,0,2,none,not,6,no
+YG154,F,89,dehydration,300,6.67,AD,4,4,no,DLB,2,3,sparse,low,6,1
+YG155,M,80,"dehydration, possible urinary tract infection",400,6.47,AD,5,5,no,DLB,1,1,sparse,low,5,no
+YG156,F,79,cachexia,195,6.40,AD,4,4,no,AD,NA,5,moderate,NA,5,2
+YG157,M,87,metabolic de-regulation,285,7.60,PDD,11,6,no,PDD,3,2,sparse,low,5,2
+YG158,F,82,"pneumonia with septic shock, causing uremia/dehydration",377,6.20,dementia NOS,18,10,no,AD,NA,5,moderate,NA,5,2
+YG159,F,86,NA,385,6.39,no,NA,no dementia,no,iLBD,4,2,sparse,low,2,2
+YG160,F,81,Dehydration due to advanced dementia,364,6.35,FTD,24,13,no,mixed AD/LBD,4,6,frequent,high,6,2
+YG161,M,54,Dehydration and cachexia secondary to sepsis,610,6.51,dementia NOS,8,7,no,AD,4,6,moderate,high,5,2
+YG162,M,82,Dehydration and cachexia,335,6.81,AD,2,2,no,DLB,NA,2,sparse,low,6,2
+YG163,M,86,Aspiration pneumonia,335,6.19,PD,26,no dementia,no,PD,0,1,none,not,Atypical,2
+YG164,M,73,"Direct cause unknown, morphine was administered",335,6.80,PDD,6,1,no,PDD,0,1,none,not,5,no
+YG165,M,88,NA,350,6.66,PD,10,no dementia,no,PD,4,1,frequent,low,5,2
+YG166,M,68,Dehydration and cachexia,410,6.71,PDD,19,4,no,PDD,4,4,sparse,intermediate,6,2
+YG167,M,83,Cachexia and dehydration,365,6.50,AD,8,8,no,mixed AD/LBD,4,3,frequent,intermediate,5,2
+YG168,F,79,Pneumonia,255,NA,AD,3,3,no,AD,NA,5,frequent,NA,5,2
+YG169,F,80,Cachexia,330,6.09,PD,32,no dementia,no,PD,3,1,sparse,low,5,no
+YG170,F,77,Sepsis due to urinary tract infection,440,NA,PD,15,no dementia,no,PD,3,1,sparse,low,6,1
+YG171,M,71,Respiratory failure,350,6.27,PD,22,no dementia,yes,PD,2,1,none,low,5,no
+YG172,M,74,"Dehydration, uremic coma and possibly a stroke",170,6.55,PD,21,no dementia,yes,PD,0,1,none,not,5,no
+YG173,M,62,Combined kidney and liver failure,555,6.44,PD,10,no dementia,no,PD,0,0,none,not,3,2
+YG174,F,91,Severe Decompensatio Cordis,465,6.90,no,NA,no dementia,no,CONTR,NA,1,sparse,low,0,2
+YG175,F,66,dehydration/cachexia/dementia,415,6.35,AD,14,13,no,AD,NA,6,frequent,NA,5,2
+YG176,M,84,Recurrent pneumonia and a severe decubital ulcer in Lewy body disease,290,6.33,DLB,11,11,no,DLB,3,2,none,low,6,2
+YG177,M,77,Aspiration pneumonia in M. Parkinson,190,6.28,PDD,31,7,yes,PDD,0,3,none,not,6,no
+YG178,F,83,Gastero-enteritis or respiratory tract infection in advanced dementia syndrome,375,6.12,DLB,4,4,no,DLB,3,4,sparse,intermediate,6,2
+YG179,F,95,"Direct cause unknown, morphine was administered",315,6.10,AD,5,5,no,mixed AD/LBD,4,4,moderate,intermediate,6,2
+YG180,F,91,heartfailure probably due to hypoglycaemia,425,6.10,no,NA,no dementia,no,iLBD,NA,3,moderate,intermediate,5,1
+YG181,M,84,endocarditis/heartfailure,310,6.80,PD,10,no dementia,no,PD,3,2,sparse,low,5,2
+YG182,M,72,Dehydration and cachexia,340,6.26,AD,11,6,no,DLB,NA,3,sparse,NA,5,1
+YG183,M,84,pneumonia and possible stroke,310,6.34,AD,6,6,no,AD,4,5,frequent,high,3,2
+YG184,M,80,Bronchopneumonia and a small intestine ileus/sepsis,360,6.48,no,NA,no dementia,no,iLBD,NA,3,sparse,NA,3,2
+YG185,M,98,"Cachexia, dehydration, respiratory tract infection and end stage dementia",340,6.40,chronic subdural hematoma,1,1,no,DLB,1,3,sparse,low,5,2
+YG186,F,88,Old age,375,6.98,no,NA,no dementia,no,iLBD,1,4,none,low,1,no
+YG187,F,82,cachexia/dehydration,440,6.10,AD,15,7,no,AD,NA,6,moderate,NA,Atypical,2
+YG188,M,75,Dehydration/pneumonia,380,6.18,no,NA,no dementia,no,iLBD,3,1,frequent,low,5,no
+YG189,F,72,dehydration,445,7.64,FTD,8,6,no,DLB,1,1,none,low,3,2
+YG190,F,85,Cachexia and dehydration,325,6.30,AD,7,7,no,mixed AD/LBD,3,5,moderate,intermediate,5,no
+YG191,M,72,dehydration,410,6.32,DLB,12,12,no,DLB,2,1,sparse,low,5,no
+YG192,M,71,Pneumonia,418,6.55,PDD,12,5,no,PDD,3,1,sparse,low,6,2
+YG193,F,80,Respiratory failuredue to pneumonia,315,6.75,AD,4,4,no,DLB,3,4,sparse,intermediate,6,2
+YG194,F,88,Euthanasia,255,6.56,PD,5,no dementia,no,PD,1,0,none,low,6,2
+YG195,M,70,Infection with unknown focus,315,6.60,PDD,24,11,no,PDD,4,1,sparse,low,5,no
+YG196,M,83,Heart failure,290,7.01,PDD,22,7,no,PDD,1,1,none,low,5,no
+YG197,F,99,NA,255,6.63,no,NA,no dementia,no,CONTR,NA,2,sparse,low,0,no
+YG198,M,80,Aspiration pneumonia due to M. Parkinson,395,6.15,PDD,25,7,no,PDD,3,1,sparse,low,6,no
+YG199,F,71,Dehydration and Pneumonia,340,6.82,DLB,4,4,no,mixed AD/LBD,4,5,moderate,high,6,1
+YG200,M,69,Cachexia in advanced Lewy Body dementia,285,6.30,DLB,8,8,no,DLB,3,4,frequent,intermediate,6,2
+YG201,M,88,Cachexia and dehydration due to advanced stage rectum carcinoma and prostate carcinoma,420,6.76,no,NA,no dementia,no,CONTR,NA,3,moderate,intermediate,0,1
+YG202,M,81,Probably an airway infection in a state of cachexia,350,6.25,PDD,17,3,no,PDD,0,1,none,not,6,no
+YG203,M,73,Urosepsis in terminal stage of dementia,390,6.27,DLB,6,6,no,DLB,3,4,sparse,intermediate,6,1
+YG204,F,89,Pneumonia,232,7.30,no,NA,no dementia,no,CONTR,0,3,none,not,0,no
+YG205,F,85,"Unknown, possibly pneumonia",430,6.18,VD,11,3,no,FTLD,1,2,sparse,low,Atypical,no
+YG206,M,69,"Pneumonia due to swallowing problems, somnolence and dehydration",280,6.07,AD,4,4,no,DLB,4,4,sparse,intermediate,6,1
+YG207,F,76,Palliative sedation in end stage Alzheimer's disease,380,6.06,AD,11,11,no,mixed AD/LBD,NA,5,frequent,NA,6,1
+YG208,M,83,Infection (urinary?) and cachexia,285,6.17,DLB,8,8,no,DLB,2,1,sparse,low,6,no
+YG209,M,78,Suicide by Pentobarbital overdose,465,6.27,dementia NOS,4,no dementia,no,DLB,2,2,sparse,low,6,2
+YG210,F,86,Cachexia and dehydration in end stage dementia,270,6.24,dementia NOS,5,5,no,DLB,2,2,sparse,low,6,2
+YG211,F,83,Cachexia and dehydration in advanced Dementia syndrome,215,6.51,AD,5,4,no,mixed AD/LBD,4,4,sparse,intermediate,6,2
+YG212,F,87,Cachexia and dehydration in advanced dementia,285,6.29,AD,7,3,no,AD,NA,5,sparse,NA,Atypical,2
+YG213,F,81,Urosepsis,450,6.24,VD,8,6,no,AD,NA,5,moderate,NA,4,2
+YG214,M,68,Decompensatio cordis and stroke,290,6.50,AD,6,5,no,mixed AD/LBD,4,6,frequent,high,6,1
+YG215,F,78,Dehydration and cachexia,290,6.26,AD,10,9,no,DLB,3,2,none,low,6,2
+YG216,M,76,Infection (unknown cause) in advanced dementia,380,6.27,dementia NOS,12,12,no,DLB,1,1,sparse,low,6,2
+YG217,F,83,Cachexia and dehydration in dementia,365,6.32,PDD,13,2,no,PDD,0,1,none,not,6,no
+YG218,F,73,Palliative sedation in end stage metastasized mamma carcinoma,465,NA,no,NA,no dementia,no,CONTR,2,1,none,low,0,1
+YG219,F,95,Cachexia,270,6.40,AD,10,3,no,AD,4,5,moderate,high,4,2
+YG220,M,62,Cachexia and dehydration in advanced dementia syndrome,275,6.12,DLB,2,2,no,DLB,4,4,sparse,intermediate,6,2
+YG221,M,81,Decompensatio cordis,315,6.78,PDD,21,1,no,PDD,0,2,none,not,6,2
+YG222,F,67,Euthanasia,460,6.12,MSA,8,no dementia,no,PDD,3,1,sparse,low,6,no
+YG223,F,90,Pneumonia,240,5.94,AD,4,4,no,AD,NA,4,moderate,intermediate,1,1
+YG224,F,81,Cachexia in advanced dementia syndrome,355,6.10,dementia NOS,9,9,no,AD,3,6,frequent,intermediate,Atypical,2
+YG225,M,84,Pneumonia and dehydration in advanced M. Parkinson,540,6.66,PDD,24,8,no,PDD,2,1,none,low,5,no
+YG226,M,72,Aspiration pneumonia,400,6.42,DLB,5,3,no,DLB,3,4,moderate,intermediate,6,2
+YG227,M,59,Cachexia and dehydration in end stage dementia,255,6.36,parkinsonism NOS,4,0,no,PDD,2,5,sparse,low,Atypical,2
+YG228,F,94,Cachexia and dehydration in end stage dementia,240,6.33,dementia NOS,19,19,no,mixed AD/LBD,4,6,sparse,intermediate,6,2
+YG229,F,89,Euthanasia,370,6.36,no,NA,no dementia,no,iLBD,NA,3,moderate,intermediate,4,no
+YG230,M,98,NA,390,6.35,no,NA,no dementia,no,iLBD,0,2,none,not,3,no
+YG231,M,75,Dehydration in end-stage dementia,265,6.84,DLB,5,5,no,DLB,3,3,moderate,intermediate,6,2
+YG232,M,88,Gastro-intestinal bleeding,283,6.17,no,NA,no dementia,no,CONTR,1,2,none,low,0,2
+YG233,M,68,Cachexia,390,6.27,AD,12,9,no,AD,4,6,frequent,high,6,2
+YG234,F,84,Old age and shortness of breath,445,6.85,PD,12,no dementia,no,PD,3,2,sparse,low,5,2
+YG235,M,73,Pneumonia,250,6.75,DLB,5,5,no,DLB,4,5,sparse,intermediate,6,1
+YG236,M,72,Cachexia,270,6.20,PDD,12,12,no,DLB,0,2,none,not,6,no
+YG237,M,72,"Gastro-intestinal bleeding, M. Parkinson with dementia",240,6.22,PDD,8,3,no,PDD,3,1,sparse,low,6,no
+YG238,F,85,palliative sedation during an exacerbation of end-stage chronic obstructive pulmonary disease,320,7.07,no,NA,no dementia,no,CONTR,1,2,none,low,0,1
+YG239,F,59,"Shock e.c.i., possibly due to vasovagal disbalance in M. Parkinson or blood loss in digestive tract",575,6.58,PD,19,no dementia,yes,PD,1,1,none,low,5,no
+YG240,M,67,Aspiration pneumonia,560,6.27,AD,15,15,no,AD,4,6,sparse,intermediate,Atypical,2
+YG241,F,79,Cardiac insufficiency,630,6.30,no,NA,no dementia,no,CONTR,0,1,none,not,0,no
+YG242,F,80,Euthanasia,300,6.60,dementia NOS,3,3,no,DLB,0,1,none,not,6,no
+YG243,M,82,Sudden death,775,6.21,no,NA,no dementia,no,CONTR,NA,3,sparse,NA,0,2
+YG244,M,79,"Dehydration due to parotitis in advanced dementia syndrome, diabetes type II, hypertension and angina pectoris",300,6.50,dementia NOS,2,2,no,DLB,3,3,sparse,intermediate,6,no
+YG245,F,81,Cachexia and dehydration in end-stage dementia in Parkinson's disease,315,6.20,PDD,11,5,no,PDD,4,4,sparse,intermediate,6,1
+YG246,M,82,Aspiration pneumonia,415,6.22,autosomal dominant cerebellar ataxia,26,no dementia,no,NBIA type 1,NA,NA,none,NA,5,no
+YG247,M,81,Pneumosepsis,270,6.16,DLB,5,5,no,mixed AD/LBD,4,4,frequent,intermediate,5,1
+YG248,M,78,Cachexia and dehydration,270,6.24,DLB,7,7,no,DLB,0,2,none,not,6,2
+YG249,M,87,NA,365,6.96,no,NA,no dementia,no,CONTR,2,3,none,low,0,no
+YG250,F,97,Dehydration and exhaustion in end stage dementia,275,6.70,AD,6,4,no,AD,NA,5,sparse,NA,Atypical,2
+YG251,M,74,Dehydration and urosepsis,405,NA,PDD,24,11,yes,PDD,0,1,none,not,5,no
+YG252,M,83,Pneumonia,315,6.66,VD,5,0,no,PDD,3,1,sparse,low,6,2
+YG253,F,93,Heart failure,240,6.64,no,NA,no dementia,no,iLBD,0,2,none,not,3,no
+YG254,F,95,Alzheimer's disease and dehydration,330,6.22,AD,3,3,no,AD,2,4,frequent,intermediate,4,2
+YG255,M,77,Pneumonia leading to septic shock,485,6.45,PD,13,no dementia,no,PD,0,1,none,not,5,no
+YG256,M,69,"Respiratory insufficiency, hypotension, autonomous dysregulation with cachexia",555,6.60,PDD,11,7,no,PDD,4,1,sparse,low,5,1
+YG257,M,70,NA,375,6.45,depression,NA,no dementia,no,iLBD,1,0,none,low,Atypical,no
+YG258,M,73,Aspiration pneumonia,395,6.28,PSP,3,2,no,PDD,2,1,none,low,4,no
+YG259,F,82,Sepsis due to aspiration pneumonia,330,5.95,AD,6,6,no,AD,4,5,frequent,high,5,1
+YG260,F,87,Cachexia and dehydration,300,6.80,no,NA,no dementia,no,CONTR,0,2,none,not,0,no
+YG261,F,81,Cachexia,390,6.40,dementia NOS,7,6,no,DLB,2,2,none,low,5,2
+YG262,F,87,Cachexia and advanced dementia,315,6.67,DLB,4,4,no,DLB,4,4,sparse,intermediate,6,1
+YG263,M,84,Dehydration/infection in MSA,408,6.00,MSA,8,no dementia,no,PD,4,3,moderate,intermediate,6,2
+YG264,M,80,Sudden death probably due to cardiac failure,330,6.29,PDD,13,9,no,PDD,2,2,sparse,low,6,2
+YG265,M,92,"Pneumonia, dehydration and cachexia",250,6.39,dementia NOS,5,2,no,DLB,1,1,none,low,Atypical,1
+YG266,M,82,Acute heart failure,510,6.31,AD,4,2,no,mixed AD/LBD,4,5,frequent,high,5,1
+YG267,M,61,Euthanasia,300,6.72,PD,20,no dementia,yes,PD,1,1,none,low,6,no
+YG268,F,85,Dehydration and cachexia,505,6.51,no,NA,no dementia,no,CONTR,NA,3,sparse,NA,0,no
+YG269,F,81,Pneumonia and thrombosis,215,6.60,AD,14,9,no,AD,NA,6,frequent,NA,Atypical,1
+YG270,F,89,Euthanasia,285,6.67,no,NA,no dementia,no,iLBD,2,2,none,low,4,no
+YG271,F,88,Cachexia in vascular dementia,340,6.18,VD,19,19,no,mixed AD/LBD,4,5,moderate,high,5,1
+YG272,F,81,"Sudden death, possibly heart failure",355,6.76,PD,42,no dementia,no,PD,1,4,none,low,6,no
+YG273,M,49,Euthanasia,375,6.23,no,NA,no dementia,no,CONTR,0,0,none,not,0,no
+YG274,F,91,Cachexia and dehydration in end-stage Dementia syndrome,380,6.12,dementia NOS,9,9,no,AD,4,6,moderate,high,4,2
+YG275,F,62,Pneumonia with Dementia and Inspiration stridor,375,6.28,dementia NOS,10,6,no,mixed AD/LBD,4,6,frequent,high,5,1
+YG276,F,87,Respiratory insufficiency due to pneumonia,420,6.92,no,NA,no dementia,no,iLBD,2,1,sparse,low,4,no
+YG277,F,94,Cachexia in advanced dementia,225,6.20,dementia NOS,NA,NA,no,AD,4,6,moderate,high,5,1
+YG278,M,73,Direct cause unknown. End stage M.Parkinson,250,6.61,PDD,13,5,no,PDD,0,3,none,not,5,no
+YG279,F,81,cachexia and dehydration,215,6.90,DLB,6,6,no,mixed AD/LBD,4,5,moderate,high,6,2
+YG280,F,70,Cachexia in endstage pancreas carcinoma,455,6.03,depression,NA,no dementia,no,CONTR,2,2,none,low,0,2
+YG281,F,91,Palliative sedation,250,6.24,PDD,13,5,no,PDD,1,1,none,low,4,2
+YG282,M,82,Voluntarily stopping of eating and drinking,365,6.09,PDD,25,8,no,PDD,0,3,none,not,5,no
+YG283,M,90,Cardiac insufficiency,245,6.52,DLB,11,11,no,DLB,3,1,sparse,low,6,1
+YG284,M,51,Voluntarily stopping of eating and drinking,465,7.05,no,NA,no dementia,no,CONTR,0,0,none,not,0,no
+YG285,M,95,Renal insufficiency,280,6.25,dementia NOS,2,no dementia,no,DLB,2,1,sparse,low,3,1
+YG286,F,82,Sudden cardiac death,235,6.52,PD,18,no dementia,no,PD,1,2,none,low,6,2
+YG287,M,77,Heart failure,350,6.09,PD,17,no dementia,no,PD,0,3,none,not,6,no
+YG288,F,73,Heart failure,280,6.44,PD,14,no dementia,no,PD,4,2,none,low,5,2
+YG289,M,74,Aspiration pneumonia,265,6.08,dementia NOS,14,14,no,mixed AD/LBD,2,3,moderate,intermediate,5,1
+YG290,M,74,Dehydration,315,6.16,DLB,7,7,no,DLB,3,4,moderate,intermediate,6,no
+YG291,F,85,"Dehydration, uraemia and pulmonary infection in dementia",360,6.40,AD,21,17,no,AD,4,6,moderate,high,5,1
+YG292,F,84,Respiratory dysfunction,365,7.65,no,NA,no dementia,no,CONTR,NA,2,sparse,low,0,1
+YG293,M,83,Pneumonia with heart failure,270,6.44,DLB,13,13,no,DLB,0,1,none,not,6,no
+YG294,M,79,Cachexia in Alzheimer's disease,250,6.46,AD,19,8,no,AD,4,6,moderate,high,5,1
+YG295,F,83,Gastroenteritis,363,6.60,VD,NA,NA,no,CONTR,NA,2,none,NA,0,1
+YG296,M,70,Pneumonia,315,6.15,AD,5,3,no,AD,4,6,frequent,high,5,1
+YG297,F,81,Respiratory insufficiency due to advanced COPD,330,6.77,no,NA,no dementia,no,CONTR,1,3,none,low,0,2
+YG298,F,82,Pneumonia,310,6.76,DLB,10,10,no,DLB,3,5,moderate,intermediate,6,2
+YG299,M,64,Cachexia and dehydration due to palliative sedation,295,6.35,AD,13,9,no,AD,4,6,frequent,high,5,2
+YG300,F,86,Cachexia and dehydration,248,6.32,PDD,15,0,no,PSP,0,NA,none,not,5,no
+YG301,F,91,Myocardial infarction,255,6.50,no,NA,no dementia,no,CONTR,1,1,none,low,0,2
+YG302,M,83,Pneumonia,345,6.35,no,NA,no dementia,no,CONTR,1,1,sparse,low,0,1
+YG303,F,76,Hepatic failure and colon carcinoma,435,6.87,no,NA,no dementia,no,CONTR,0,2,none,not,0,no
+YG304,F,81,Cachexia and dehydration in Alzheimer's disease,210,6.62,AD,24,24,no,mixed AD/LBD,4,6,frequent,high,6,2
+YG305,M,79,Aspiration pneumonia and cachexia in advanced Lewy body dementia,348,6.29,DLB,7,7,no,DLB,4,4,sparse,intermediate,6,1
+YG306,F,95,"Old age, cachexia and dehydration",340,6.46,no,NA,no dementia,no,iLBD,NA,3,none,NA,2,2
+YG307,M,57,Euthanasia,345,7.00,PD,13,no dementia,no,PD,0,0,none,not,5,2
+YG308,M,67,Palliative sedation because of epilepsy in end stage dementia,225,6.37,FTD,13,11,no,AD,4,6,frequent,high,6,1
+YG309,F,68,Dehydration,210,6.02,AD,15,15,no,DLB,3,6,frequent,intermediate,6,2
+YG310,M,79,Cachexia and dehydration,240,6.13,DLB,3,2,no,DLB,2,1,sparse,low,6,2
+YG311,F,80,Respiratory failure and chronic heart failure,410,6.50,PD,30,no dementia,no,PD,4,0,sparse,low,5,no
+YG312,F,89,Pneumonia and cardiac decompensation,340,6.75,no,NA,no dementia,no,CONTR,NA,2,sparse,low,0,2
+YG313,F,71,Paralytic ileus and aspiration pneumonia,545,6.41,PD,25,no dementia,yes,PD,1,2,none,low,5,no
+YG314,F,88,Cachexia and dehydration in Alzheimer's disease,245,6.39,AD,10,7,no,mixed AD/LBD,4,4,sparse,intermediate,5,1
+YG315,F,84,Heart failure,336,6.68,no,NA,no dementia,no,CONTR,1,2,none,low,0,2
+YG316,M,76,Pneumonia,335,6.30,PDD,17,6,no,PDD,2,3,none,low,6,no
+YG317,M,71,Cachexia and dehydration after urosepsis,275,6.24,MSA,7,3,no,PSP,0,2,none,not,6,no
+YG318,M,84,Myocardial infarction and cardiac arrest,390,6.40,parkinsonism NOS,11,no dementia,no,PD,0,1,none,not,4,2
+YG319,F,85,Terminal renal insufficiency,425,NA,no,NA,no dementia,no,CONTR,NA,1,sparse,low,0,no
+YG320,M,65,"Intestinal obstruction, ulcerative colitis and severe anemia",300,6.45,PD,5,no dementia,no,PD,0,1,none,not,4,no
+YG321,M,81,Euthanasia,270,6.42,PD,10,no dementia,no,PD,1,2,sparse,low,6,2
+YG322,F,88,Dehydration and cachexia due to chronic diarrhea and advanced dementia,355,6.91,dementia NOS,19,19,no,AD,NA,5,moderate,NA,4,2
+YG323,M,55,Euthanasia,450,6.88,no,NA,no dementia,no,CONTR,0,0,none,not,0,no
+YG324,M,65,Dehydration and aspiration pneumonia in end stage M. Parkinson,265,6.67,PDD,19,2,yes,PDD,3,1,none,low,6,no
+YG325,M,78,Pneumonia,375,6.33,PDD,16,0,no,PDD,3,0,sparse,low,6,2
+YG326,M,71,stroke and advanced dementia,305,6.38,DLB,5,3,no,DLB,4,2,moderate,low,6,2
+YG327,M,87,Cachexia and dehydration in endstage of M. Parkinson and Dementia,285,6.46,PDD,4,4,no,PDD,2,4,sparse,low,5,no
+YG328,F,83,Euthanasia,400,6.55,no,NA,no dementia,no,iLBD,NA,4,sparse,NA,2,1
+YG329,F,84,Respiratory failure due to pneumonia,355,6.10,no,NA,no dementia,no,CONTR,2,2,moderate,low,0,2
+YG330,F,65,Dehydration by respiratory tract infection by end stage Dementia,270,6.25,AD,10,7,no,AD,4,5,moderate,high,5,1
+YG331,M,102,Ileus,300,6.64,no,NA,no dementia,no,CONTR,2,3,sparse,low,0,1
+YG332,M,87,Respiratory insufficiency,325,6.31,PDD,13,2,no,PDD,0,3,none,not,6,no
+YG333,F,70,"Dehydration, cachexia and final stage dementia",315,6.62,AD,12,9,no,mixed AD/LBD,4,6,frequent,high,6,2
+YG334,F,88,Abdominal haematoma,325,6.33,other,NA,no dementia,yes,CONTR,3,3,sparse,intermediate,0,no
+YG335,F,74,Euthanasia,310,6.39,PD,6,no dementia,no,PD,2,2,none,low,Atypical,no
+YG336,F,92,Euthanasia,265,6.65,parkinsonism NOS,NA,no dementia,no,CONTR,1,3,sparse,intermediate,0,2
+YG337,M,56,Euthanasia,445,NA,PD,14,no dementia,yes,PD,1,1,none,low,5,no
+YG338,F,87,Cachexia and dehydration,250,6.37,PDD,30,3,no,mixed AD/LBD,4,6,frequent,high,6,2
+YG339,F,76,NA,330,6.16,PD,15,no dementia,no,PD,1,1,none,low,6,no
+YG340,M,81,Euthanasia,501,6.33,PDD,4,2,no,PDD,1,3,none,low,6,2
+YG341,F,91,Cachexia and dehydration by end stage Dementia syndrome,485,6.05,dementia NOS,NA,NA,no,AD,NA,5,sparse,NA,Atypical,2
+YG342,F,62,Euthanasia,480,NA,PD,25,no dementia,no,PD,0,1,none,not,4,no
+YG343,M,62,Upper urinary tract infection,365,6.42,DLB,7,7,no,DLB,4,4,moderate,intermediate,6,2
+YG344,F,64,Pneumonia with final stage Alzheimer's disease,430,6.34,AD,13,9,no,AD,4,6,frequent,high,5,1
+YG345,M,80,Aspiration pneumonia in endstage m. Parkinson,325,6.43,PDD,11,5,no,PDD,1,1,none,low,6,no
+YG346,F,60,Metastasized mammacarcinoma,490,6.58,no,NA,no dementia,no,CONTR,0,0,none,not,0,no
+YG347,F,85,Pneumonia,400,6.82,no,NA,no dementia,no,iLBD,1,3,none,low,4,2
+YG348,M,77,Euthanasia,375,6.60,PD,17,no dementia,no,PD,3,2,none,low,6,1
+YG349,F,79,Aspiration pneumonia,325,5.70,PDD,14,5,no,PDD,3,3,sparse,intermediate,6,1
+YG350,M,81,Advanced dementia in M. Parkinson,275,6.55,PDD,9,2,no,PDD,1,2,none,low,6,no
+YG351,F,90,Heart failure,345,6.62,PDD,6,1,no,PDD,2,3,none,low,6,2
+YG352,M,86,Cardiac arrest and respiratory tract infection,445,6.26,PD,17,no dementia,no,PD,1,2,none,low,6,2
+YG353,F,78,Euthanasia,430,6.32,no,NA,no dementia,no,CONTR,1,1,none,low,0,no
+YG354,M,77,Euthanasia,288,6.69,PD,17,no dementia,yes,PD,1,1,none,low,6,no
+YG355,M,70,"Palliative care for dehydration, treatment resistant sepsis and progressed Parkinson's disease",480,6.60,PDD,18,1,no,PDD,3,1,none,low,6,1
+YG356,F,92,Pneumonia,510,6.35,AD,12,9,no,AD,4,6,frequent,high,4,1
+YG357,M,86,Possible pneumonia in endstage Parkinson's disease,375,6.33,parkinsonism NOS,7,no dementia,no,PD,1,2,none,low,6,2
+YG358,F,80,Dehydration with upper respiratory tract infection and possible influenza,290,6.36,AD,9,9,no,AD,4,6,frequent,high,4,1
+YG359,M,84,Cachexia,210,6.35,VD,6,no dementia,no,DLB,2,3,none,low,6,2
+YG360,F,87,Myocardial infarction due to pneumonia,260,6.95,AD,NA,NA,no,AD,NA,5,moderate,NA,3,no
+YG361,F,76,hypoxia/cachexia,300,6.31,AD,11,5,no,DLB,3,6,frequent,intermediate,6,2
+YG362,F,70,cachexia/dehydration,260,6.74,DLB,11,8,no,AD,4,6,frequent,high,5,1
+YG363,F,76,Adenocarcinoma,285,6.40,no,NA,no dementia,no,CONTR,0,2,none,not,0,no
+YG364,F,86,dehydration,255,6.67,AD,6,6,no,AD,NA,5,moderate,NA,5,2
+YG365,F,89,Peritonitis,270,6.73,AD,2,2,no,AD,4,4,sparse,intermediate,0,no
+YG366,F,82,probable sepsis with abdominal focus,250,6.52,VD,4,4,no,DLB,3,3,sparse,intermediate,6,2
+YG367,M,79,Urinary infection and cachexia,325,6.15,AD,5,5,no,PDD,1,1,sparse,low,5,no
+YG368,F,82,dehydration/cachexia,245,6.59,DLB,8,8,no,mixed AD/LBD,4,6,moderate,high,6,1
+YG369,F,71,Euthanasia,545,6.80,PDD,15,2,yes,PDD,0,2,none,not,6,no
+YG370,F,85,Pneumonia,265,6.35,dementia NOS,9,9,no,AD,NA,5,frequent,NA,5,2
+YG371,F,80,infection/dehydration,285,6.53,VD,2,2,no,DLB,4,2,sparse,low,6,2
+YG372,F,95,Liver abscess with sepsis,425,5.89,no,NA,no dementia,no,CONTR,3,3,sparse,intermediate,0,no
+YG373,F,72,"Euthanasia, metastatic ovarian cancer and ileus",410,7.22,no,NA,no dementia,no,CONTR,1,1,none,low,0,no
+YG374,F,97,Cachexia,275,6.26,AD,7,7,no,AD,4,5,moderate,high,3,2
+YG375,F,95,Cardiac and renal failure,430,6.32,no,NA,no dementia,no,CONTR,3,3,sparse,intermediate,0,1
+YG376,F,88,Acute heart failure,335,6.89,PD,16,no dementia,no,PD,0,2,none,not,6,no
+YG377,F,84,Cachexia and delirium,250,6.23,dementia NOS,5,3,no,mixed AD/LBD,4,5,frequent,high,6,2
+YG378,F,70,Aspiration pneumonia,230,6.46,FTD,5,NA,no,DLB,NA,0,none,NA,5,no
+YG379,F,91,Pneumonia,285,6.84,dementia NOS,5,5,no,AD,NA,5,sparse,NA,3,2
+YG380,F,68,Dehydration due to chronic delirium and advanced dementia,275,6.50,DLB,4,4,no,DLB,4,4,sparse,intermediate,6,1
+YG381,F,90,"Possible infection, fever with unknown focus",365,6.12,no,NA,no dementia,no,CONTR,3,3,none,intermediate,0,1
+YG382,M,76,Ileus,555,6.33,PD,20,no dementia,no,PD,3,3,none,intermediate,6,2
+YG383,M,75,Euthanasia,350,6.54,PD,25,no dementia,yes,PD,2,1,none,low,6,1
+YG384,F,74,Pneumonia in advanced dementia,395,6.09,DLB,12,12,no,DLB,2,2,none,low,6,no
+YG385,M,86,Euthanasia,250,6.91,PD,19,no dementia,yes,PD,3,3,sparse,intermediate,6,1
+YG386,F,83,Cachexia in endstage M. Parkinson,360,6.43,PD,21,7,no,PDD,2,2,sparse,low,6,2
+YG387,F,92,Heart failure,395,6.12,no,NA,no dementia,no,iLBD,0,3,none,not,1,2
+YG388,M,72,"Stroke, respiratory failure and cardiac arrest",525,6.46,PD,12,no dementia,yes,PD,1,2,none,low,6,no
+YG389,M,69,Euthanasia,410,6.63,PD,14,no dementia,yes,PD,0,1,none,not,6,2
+YG390,M,63,Hepatic insufficiency on the bases of metastases from unknown tumor,295,6.78,DLB,3,3,no,DLB,4,4,frequent,intermediate,6,1
+YG391,F,77,Stroke,365,6.20,PDD,16,3,no,PDD,1,3,none,low,6,no
+YG392,M,83,Cachexia in end stage dementia,310,6.38,PDD,15,4,no,PDD,3,2,sparse,low,6,2
+YG393,M,92,Liver cirrhosis ascites and anuria,465,6.55,no,NA,no dementia,no,CONTR,3,3,sparse,intermediate,0,1
+YG394,M,56,Dehydration and cachexia due to swallowing problems,300,6.20,DLB,5,5,no,mixed AD/LBD,4,5,frequent,high,6,2
+YG395,F,72,aspiration pneumonia,335,6.36,DLB,8,6,no,mixed AD/LBD,4,6,frequent,high,6,2
+YG396,M,78,Dehydration,210,6.43,PDD,7,3,no,PDD,2,3,none,low,5,no
+YG397,M,70,Pneumonia,335,6.60,PD,5,no dementia,no,PD,0,1,none,not,3,no
+YG398,F,90,Acute heart failure,365,6.24,AD,15,10,no,AD,4,5,moderate,high,Atypical,2
+YG399,F,65,Cachexia and dehydration in advanced Parkinson dementia,455,6.55,PDD,10,1,no,PDD,2,1,sparse,low,6,no
+YG400,M,72,Euthanasia,340,6.00,PD,25,no dementia,no,PD,3,1,none,low,6,2
+YG401,M,72,aspiration pneumonia,255,6.77,VD,8,NA,no,DLB,1,1,none,low,5,no
+YG402,M,78,Noro-virus infection in end stage M. Parkinson,300,6.45,PDD,16,5,no,PDD,4,3,sparse,intermediate,6,2
+YG403,M,84,Aspiration pneumonia,370,6.54,PDD,13,3,no,PDD,4,4,frequent,intermediate,6,1
+YG404,M,79,"Recent myocardial infarction, sepsis and pneumonia, renal failure",420,6.50,PD,16,no dementia,no,PD,NA,0,none,NA,5,NA
+YG405,M,78,Sepsis due to decubitus; cachexia,250,6.79,VD,2,2,no,PDD,4,4,sparse,intermediate,3,2
+YG406,F,96,Heart failure and myelodysplastic syndrome,475,5.90,AD,8,5,no,DLB,4,4,moderate,intermediate,6,1
+YG407,M,73,Invasive fungal infection and bacterial pneumonia,480,5.37,no,NA,no dementia,no,CONTR,1,2,none,low,0,2
+YG408,F,90,"General physical deterioration, palliative sedation",315,6.33,parkinsonism NOS,4,no dementia,no,PD,3,2,sparse,low,6,2
+YG409,M,79,Mors subita,345,6.70,dementia NOS,NA,NA,no,DLB,3,4,frequent,intermediate,5,2
+YG410,F,88,Pneumonia or cardiac failure,215,6.45,AD,16,NA,no,AD,3,5,moderate,intermediate,3,2
+YG411,F,79,Cachexia and dehydration by advanced m. Alzheimer,260,6.31,AD,5,5,no,DLB,3,5,frequent,intermediate,6,1
+YG412,F,70,Pneumonia,225,6.52,dementia NOS,3,3,no,AD,4,5,frequent,high,5,1
+YG413,M,74,NA,495,7.29,PD,15,no dementia,no,PD,0,0,none,not,3,no
+YG414,F,93,Heart failure,455,6.27,no,NA,no dementia,no,CONTR,0,2,none,not,0,no
+YG415,M,74,Pneumonia,333,6.30,VD,4,4,no,DLB,3,4,frequent,intermediate,6,2
+YG416,F,70,Dehydration and cachexia with subcapital humerus fracture in advanced stage of dementia,345,6.22,FTD,3,3,no,AD,4,5,frequent,high,6,2
+YG417,F,88,"Stroke, respiratory insufficiency and dehydration",190,6.58,dementia NOS,4,4,no,DLB,3,4,sparse,intermediate,5,2
+YG418,F,82,"Lung cancer, pneumonia",465,5.97,no,NA,no dementia,no,CONTR,2,1,none,low,0,no
+YG419,F,82,Cardiac problems in endstage M. Parkinson,350,6.60,PDD,9,0,no,PDD,1,2,none,low,6,2
+YG420,M,82,Euthanasia,300,6.72,PD,8,no dementia,no,PD,1,2,none,low,6,no
+YG421,F,87,NA,265,7.10,AD,2,2,no,AD,NA,3,moderate,intermediate,5,1
+YG422,M,75,Parkinson's disease,465,6.30,PD,11,no dementia,no,PD,NA,0,none,NA,5,no
+YG423,F,83,Decompensatio cordis and pneumonia,300,6.58,dementia NOS,10,10,no,DLB,2,2,sparse,low,5,2
+YG424,F,98,Cachexia,355,7.12,AD,8,8,no,DLB,NA,3,moderate,intermediate,5,1
+YG425,F,76,NA,295,6.78,AD,9,9,no,DLB,NA,4,sparse,NA,5,2
+YG426,F,94,stroke,220,6.58,dementia NOS,6,6,no,DLB,3,4,moderate,intermediate,5,2
+YG427,M,74,NA,460,6.59,PDD,16,2,no,PDD,NA,2,sparse,low,5,1
+YG428,F,78,decubites/cachexia/terminal phase dementia,255,6.10,dementia NOS,5,2,no,DLB,NA,5,sparse,NA,6,2
+YG429,M,75,aspiration pneumonia,295,6.82,AD,4,3,no,mixed AD/LBD,3,4,moderate,intermediate,5,2
+YG430,F,75,dementia/ dehydration/ fever,370,6.38,PDD,7,1,no,PDD,2,1,none,low,5,1
+YG431,M,67,Pneumonia in end stage Lewy body dementia,320,6.67,DLB,5,3,no,mixed AD/LBD,4,5,frequent,high,6,1
+YG432,M,89,Urosepsis,410,6.23,no,NA,no dementia,no,CONTR,0,2,none,not,0,no
+YG433,M,83,Myocardial infarction and palliative sedation,315,6.60,no,NA,no dementia,no,iLBD,1,1,none,low,1,no
+YG434,F,81,Cachexia in advanced dementia,310,6.70,PDD,33,5,yes,PDD,2,3,sparse,low,6,no
+YG435,F,90,Pneumonia,285,NA,PD,16,no dementia,no,PD,3,3,sparse,intermediate,6,2
+YG436,M,86,Mors subita possibly myocardial infarction,350,6.48,PDD,14,3,no,PDD,0,3,none,not,6,no
+YG437,F,91,Possibly cardiac cause,250,6.58,no,NA,no dementia,no,CONTR,2,3,moderate,intermediate,0,2
+YG438,M,84,Cachexia in endstage M. Parkinson,290,6.41,PD,8,no dementia,no,PD,2,1,none,low,4,1
+YG439,F,85,Euthanasia,385,6.60,no,NA,no dementia,no,CONTR,2,3,none,low,0,no
+YG440,F,73,General deterioration by advanced Dementia syndrome,295,6.37,AD,12,12,no,AD,4,6,frequent,high,5,1
+YG441,M,73,Aspiration pneumonia,390,6.23,AD,7,6,no,DLB,4,5,sparse,intermediate,6,2
+YG442,M,71,Voluntarily stopping eating and drinking,360,6.33,DLB,8,7,no,DLB,4,4,frequent,intermediate,6,2
+YG443,F,89,Heart failure and dehydration,395,6.73,no,NA,no dementia,no,CONTR,1,3,none,low,0,2
+YG444,F,88,"Sudden death, Heart failure",385,5.98,PD,21,no dementia,no,PD,3,3,none,intermediate,6,2
+YG445,M,81,euthanasia in pancreatic cancer,435,6.06,no,NA,no dementia,no,iLBD,2,2,none,low,3,no
+YG446,M,72,Cachexia and dehydration due to metastasized oesophagus carcinoma,705,6.01,no,NA,no dementia,no,iLBD,3,2,none,low,3,no
+YG447,F,78,NA,600,6.59,NA,NA,no dementia,no,CONTR,2,1,none,low,0,no
+YG448,F,77,"unknown, metastazised colon cancer",270,6.50,no,NA,no dementia,no,iLBD,2,2,none,low,1,no
+YG449,F,72,cardiac arrest,440,NA,no,NA,no dementia,no,CONTR,0,0,none,not,0,no
+YG450,F,59,euthanasia in end-stage COPD,490,6.08,no,NA,no dementia,no,CONTR,1,0,none,low,0,no
+YG451,F,71,metastasized small cell lung cancer,410,6.87,no,NA,no dementia,no,CONTR,2,1,none,low,0,1
+YG452,M,74,euthanasia,615,6.62,NA,NA,no dementia,no,CONTR,3,2,none,low,0,no
+YG453,F,87,urinary tract infection,510,NA,no,NA,no dementia,no,CONTR,0,1,none,not,0,no
+YG454,F,69,lung embolism and heart failure,780,NA,no,NA,no dementia,no,CONTR,1,1,none,low,0,no
+YG455,M,59,euthanasia,480,NA,no,NA,no dementia,no,iLBD,2,1,none,low,Atypical,no
+YG456,M,82,euthanasia,450,6.30,no,NA,no dementia,no,iLBD,1,3,none,low,5,no
+YG457,M,77,pneumonia,695,5.67,no,NA,no dementia,no,CONTR,1,1,none,low,0,no
+YG458,M,68,euthanasia in metastazised prostate cancer,520,6.12,no,NA,no dementia,no,CONTR,2,1,none,low,0,1
+YG459,F,79,NA,375,6.47,no,NA,no dementia,no,CONTR,3,2,sparse,low,0,no
+YG460,F,81,lung carcinoma,600,NA,no,NA,no dementia,no,CONTR,2,2,none,low,0,no
+YG461,F,78,pneumonia and exacerbation COPD,390,6.57,no,NA,no dementia,no,CONTR,3,1,sparse,low,0,no
+YG462,F,81,"euthanasia, lung cancer",495,NA,no,NA,no dementia,no,CONTR,3,2,sparse,low,0,1
+YG463,F,79,leukemia,630,6.13,no,NA,no dementia,no,CONTR,NA,NA,NA,NA,NA,NA
+YG464,M,93,heart failure,510,7.30,no,NA,no dementia,no,iLBD,1,3,none,low,5,2
+YG465,M,67,heart failure and COPD,690,6.08,no,NA,no dementia,no,CONTR,4,4,moderate,intermediate,0,2
+YG466,F,86,euthanasia,150,6.42,no,NA,no dementia,no,iLBD,4,0,moderate,low,4,no
+YG467,F,74,"unknown, metastazised adenocarcinoma lung",550,5.74,no,NA,no dementia,no,CONTR,3,2,none,low,0,1
+YG468,M,79,Urosepsis and decompensatio cordis,425,6.67,no,NA,no dementia,no,CONTR,NA,1,none,NA,0,no
+YG469,F,54,Livercirrhosis/ encephalopathy,335,6.40,alcoholic encephalopathy,1,no dementia,no,CONTR,0,0,none,not,0,no
+YG470,F,75,Euthanasia,550,6.57,no,NA,no dementia,no,CONTR,1,2,none,low,0,no
+YG471,F,66,Pneumonia,350,6.69,PDD,9,5,no,PDD,1,1,none,low,6,no
+YG472,F,89,Euthanasia,390,6.55,no,NA,no dementia,no,CONTR,1,3,none,low,0,2
+YG473,F,86,Seizure under palliative sedation,180,6.97,PD,13,no dementia,no,PD,2,2,none,low,6,1
+YG474,M,76,cachexia,300,6.13,DLB,2,2,no,DLB,4,3,moderate,intermediate,6,2
+YG475,M,66,Dehydration,270,6.47,PDD,13,2,no,PDD,4,2,sparse,low,6,1
+YG476,M,85,Pneumonia,445,6.54,no,NA,no dementia,no,CONTR,2,3,sparse,low,0,2
+YG477,F,84,Multiple myeloma with anemia,415,6.85,no,NA,no dementia,no,CONTR,2,2,none,low,0,2
+YG478,M,75,Cardiac arrest with COPD,430,6.45,no,NA,no dementia,no,CONTR,3,1,sparse,low,0,2
+YG479,M,75,Heart failure,510,6.74,PD,10,no dementia,no,PD,0,1,none,not,6,no
+YG480,F,89,Suicide with Pentobarbital,780,6.39,no,NA,no dementia,no,CONTR,1,1,none,low,0,no
+YG481,M,82,"General deterioration, dehydration, cachexia",385,6.56,MSA,13,4,no,PDD,1,1,none,low,6,no
+YG482,F,62,euthanasia,475,6.40,no,NA,no dementia,no,CONTR,NA,1,none,NA,0,no
+YG483,M,81,pancreatic carcinoma,270,6.30,no,NA,no dementia,no,CONTR,NA,3,frequent,intermediate,0,1
+YG484,F,86,Heart failure,425,6.45,no,NA,no dementia,no,CONTR,1,1,moderate,low,0,no
+YG485,F,92,Euthanasia,465,6.71,no,NA,no dementia,no,iLBD,1,1,none,low,3,no
+YG486,M,74,Metastasised pulmonary carcinoma,485,6.87,no,NA,no dementia,no,iLBD,0,0,none,not,1,no
+YG487,M,70,Pneumosepsis,1245,6.68,no,NA,no dementia,no,CONTR,0,1,none,not,0,2
+YG488,M,84,Cachexia and dehydration in advanced M. Parkinson,495,6.36,PD,23,no dementia,no,PD,0,1,none,not,6,no
+YG489,M,83,pneumonia and cachexia,315,6.37,PD,24,no dementia,no,PD,1,2,none,low,6,no
+YG490,F,87,Cerebral haemorrhage,240,6.78,PD,18,no dementia,no,Vascular parkinsonism,NA,2,sparse,low,0,no
+YG491,M,70,Neutropenic sepsis due to Herpes and Aspergillus pneumonia after combined radio- and chemotherapy for pulmonary carcinoma,215,7.20,no,NA,no dementia,no,CONTR,1,1,none,low,0,2
+YG492,M,73,Pneumonia,265,7.00,no,NA,no dementia,no,CONTR,3,1,sparse,low,0,NA
+YG493,M,76,Cachexia in Parkinson's Dementia,275,6.47,PDD,8,6,no,mixed AD/LBD,4,5,frequent,high,6,1
+YG494,F,85,Acute cardiac death,350,6.50,no,NA,no dementia,no,CONTR,NA,3,sparse,NA,0,no
+YG495,M,76,"Sepsis due to urinary tract infection, decompensation cordis, endstage dementia",495,6.52,DLB,16,11,no,PDD,1,1,none,low,6,no
+YG496,F,81,Palliative sedation,350,6.36,no,NA,no dementia,no,CONTR,3,4,sparse,intermediate,0,2
+YG497,F,92,Palliative sedation and respiratory failure,280,6.70,no,NA,no dementia,no,CONTR,2,3,sparse,low,0,2
+YG498,F,81,Dehydration in end-stage Parkinson's disease,310,6.54,PD,25,no dementia,no,PD,1,2,sparse,low,4,no
+YG499,M,78,Stomach perforation,345,6.37,PDD,16,5,no,PDD,0,2,none,not,5,2
+YG500,F,53,liver cancer,490,NA,no,NA,no dementia,no,CONTR,0,0,none,not,0,no
