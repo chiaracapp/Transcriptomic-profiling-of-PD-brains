@@ -24,7 +24,7 @@ Files folder contains:
 - Sample_ID.csv
 - Seq_stats.csv
 - degradation.matrix.84.txt
-- MReads_84.cs
+- MReads_84.csv
 
 ## Citation
 
